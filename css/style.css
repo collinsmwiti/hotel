@@ -1,0 +1,22 @@
+body{
+     background-color: pink;
+}
+.image-column{
+  width:25%;
+  float:left;
+}
+.rectangle{
+  margin: 10px;
+  border: 2px solid red;
+  padding: 9px;
+  background-color: blue;
+}
+.square{
+  margin: 10px;
+  border: 2px solid black;
+  padding: 9px;
+  background-color: green;
+}
+.span3{
+  color: blue;
+}
